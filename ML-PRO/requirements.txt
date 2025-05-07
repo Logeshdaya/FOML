@@ -1,0 +1,8 @@
+opencv-python
+numpy
+dlib
+face_recognition
+sounddevice
+scipy
+python_speech_features
+scikit-learn
